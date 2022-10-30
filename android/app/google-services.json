@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1080023027309",
+    "project_id": "calender-app-28c65",
+    "storage_bucket": "calender-app-28c65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080023027309:android:4bacbfebc55fe3a0387964",
+        "android_client_info": {
+          "package_name": "com.example.event_calender_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080023027309-kmlqo3ku8mluolks346khvebn0eamlru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb6T4A2mJAYiZ-dQHzV__3l5dj_9Tmy8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080023027309-kmlqo3ku8mluolks346khvebn0eamlru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080023027309:android:76d5de254d9ff47c387964",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080023027309-kmlqo3ku8mluolks346khvebn0eamlru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb6T4A2mJAYiZ-dQHzV__3l5dj_9Tmy8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080023027309-kmlqo3ku8mluolks346khvebn0eamlru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
